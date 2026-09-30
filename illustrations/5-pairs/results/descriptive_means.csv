@@ -1,0 +1,3 @@
+policy,auc_percent,delivered,discovered,scout_deliveries,scout_pickups,active_ticks,explore_ticks,retrieve_ticks,carry_ticks,safe_return_ticks,gossip_ticks,parked_ticks,explore_active_percent,retrieve_active_percent,carry_active_percent,safe_return_active_percent,gossip_active_percent
+hsr,64.81006,22.8,23.8,0.0,0.0,610.4,594.2,0.0,0.0,16.2,0.0,1.6,97.34600262123197,0.0,0.0,2.653997378768021,0.0
+soft-hsr,70.75130000000001,24.0,24.0,4.8,4.8,596.8,431.8,26.6,114.4,24.0,0.0,4.8,72.35254691689008,4.457104557640751,19.168900804289546,4.021447721179625,0.0

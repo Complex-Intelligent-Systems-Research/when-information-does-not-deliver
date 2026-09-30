@@ -1,0 +1,20 @@
+# Research materials only.
+*
+!*/
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/CITATION.cff
+!/citation.bib
+!/docs/PROTOCOL.md
+!/docs/MAPS.md
+!/instances/mapd_*.json
+!/study/maps/**/mapd_*.json
+!/figures/paper/*.pdf
+!/figures/paper/instance_family.png
+!/figures/paper/reviewer12_heatmaps.png
+!/illustrations/5-pairs/README.md
+!/illustrations/5-pairs/results/*.csv
+.DS_Store
+._*
+__MACOSX/

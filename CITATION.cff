@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: If you use these research materials, please cite the accompanying article using the
+  preferred citation.
+type: dataset
+title: 'When Information Does Not Deliver: The Service-Capacity Cost of Rigid Roles in Energy-Constrained
+  Multi-Agent Foraging — Research Data and Supplementary Materials'
+authors:
+- family-names: Pavone
+  given-names: Mario
+  orcid: https://orcid.org/0000-0003-3421-3293
+- family-names: Brancaforte
+  given-names: Martina
+- family-names: Cassia
+  given-names: Massimiliano
+- family-names: Mezzina
+  given-names: Alessio
+  orcid: https://orcid.org/0009-0003-3130-121X
+- family-names: Crespi
+  given-names: Carolina
+  orcid: https://orcid.org/0000-0003-1050-2453
+keywords:
+- multi-agent foraging
+- role specialization
+- decentralized coordination
+- energy constraints
+abstract: Benchmark instances, paper figures and CSV data for the five-pair scout illustration.
+preferred-citation:
+  type: article
+  title: 'When Information Does Not Deliver: The Service-Capacity Cost of Rigid Roles in Energy-Constrained
+    Multi-Agent Foraging'
+  authors:
+  - family-names: Pavone
+    given-names: Mario
+    orcid: https://orcid.org/0000-0003-3421-3293
+  - family-names: Brancaforte
+    given-names: Martina
+  - family-names: Cassia
+    given-names: Massimiliano
+  - family-names: Mezzina
+    given-names: Alessio
+    orcid: https://orcid.org/0009-0003-3130-121X
+  - family-names: Crespi
+    given-names: Carolina
+    orcid: https://orcid.org/0000-0003-1050-2453
+  journal: Computers
+  year: 2026
+  notes: Accepted manuscript; final publication metadata pending.
