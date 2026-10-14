@@ -40,18 +40,21 @@ HSR-1 and Soft-HSR-1 use the same fixed 75 × 75 instance, with five agents, one
 
 If you refer to this study or its accompanying materials, please cite the article:
 
-> Pavone, M., Brancaforte, M., Cassia, M., Mezzina, A., & Crespi, C. (2026). *When Information Does Not Deliver: The Service-Capacity Cost of Rigid Roles in Energy-Constrained Multi-Agent Foraging*. Computers. Accepted manuscript; final publication metadata pending.
+> Pavone, M., Brancaforte, M., Cassia, M., Mezzina, A., & Crespi, C. (2026). When Information Does Not Deliver: The Service-Capacity Cost of Rigid Roles in Energy-Constrained Multi-Agent Foraging. *Computers, 15*(10), Article 684. https://doi.org/10.3390/computers15100684
 
 ```bibtex
-@article{pavone2026information,
-  author  = {Pavone, Mario and Brancaforte, Martina and Cassia, Massimiliano
-             and Mezzina, Alessio and Crespi, Carolina},
-  title   = {When Information Does Not Deliver: The Service-Capacity Cost
-             of Rigid Roles in Energy-Constrained Multi-Agent Foraging},
-  journal = {Computers},
-  year    = {2026},
-  note    = {Accepted manuscript; final publication metadata pending}
+@Article{computers15100684,
+AUTHOR = {Pavone, Mario and Brancaforte, Martina and Cassia, Massimiliano and Mezzina, Alessio and Crespi, Carolina},
+TITLE = {When Information Does Not Deliver: The Service-Capacity Cost of Rigid Roles in Energy-Constrained Multi-Agent Foraging},
+JOURNAL = {Computers},
+VOLUME = {15},
+YEAR = {2026},
+NUMBER = {10},
+ARTICLE-NUMBER = {684},
+URL = {https://www.mdpi.com/2073-431X/15/10/684},
+ISSN = {2073-431X},
+DOI = {10.3390/computers15100684}
 }
 ```
 
-Download [BibTeX](citation.bib) or use [CITATION.cff](CITATION.cff). DOI, volume, article number and publication date will be added when final metadata are available.
+Download [BibTeX](citation.bib) or use [CITATION.cff](CITATION.cff).

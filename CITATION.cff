@@ -43,5 +43,10 @@ preferred-citation:
     given-names: Carolina
     orcid: https://orcid.org/0000-0003-1050-2453
   journal: Computers
+  volume: '15'
   year: 2026
-  notes: Accepted manuscript; final publication metadata pending.
+  issue: '10'
+  notes: Article number 684.
+  url: https://www.mdpi.com/2073-431X/15/10/684
+  issn: 2073-431X
+  doi: 10.3390/computers15100684
